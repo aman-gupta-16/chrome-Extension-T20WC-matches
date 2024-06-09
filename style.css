@@ -1,0 +1,17 @@
+body {
+  min-width: 300px;
+  border-radius: 10px;
+}
+li {
+  color: blueviolet;
+  margin: 10px;
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 600;
+  background-color: purple;
+  color: aliceblue;
+}

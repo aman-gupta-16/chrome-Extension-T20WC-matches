@@ -1,0 +1,13 @@
+{
+  "name": "cricket matches",
+  "version": "1.0.0",
+  "description": "this extensions upcoming cricket matches",
+  "main": "app.js",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.jpg",
+    "default_title": "cricket matches"
+  },
+  "author": "Aman_Gupta"
+}
